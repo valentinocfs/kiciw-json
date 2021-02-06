@@ -1,0 +1,70 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Fawzia Aditya",
+            "age": 18,
+            "address": "jl. bekamin"
+        },
+        {
+            "id": 2,
+            "name": "M Nasiruddin ",
+            "age": 18,
+            "address": "jl. bojong kacor"
+        },
+        {
+            "id": 3,
+            "name": "Mohammad Dinar",
+            "age": 17,
+            "address": "jl. pasir leutik"
+        },
+        {
+            "id": 4,
+            "name": "Lucky Ardiyansah",
+            "age": 17,
+            "address": "jl. sukaharja"
+        },
+        {
+            "id": 5,
+            "name": "Naufal Fauzan",
+            "age": 17,
+            "address": "jl. ujung berung"
+        },
+        {
+            "id": 6,
+            "name": "Mohammad Rifan",
+            "age": 17,
+            "address": "jl. yas dalam"
+        },
+        {
+            "id": 7,
+            "name": "Rivandra Adhi",
+            "age": 17,
+            "address": "jl. bojong koneng atas "
+        },
+        {
+            "id": 8,
+            "name": "Faishal Lathif",
+            "age": 17,
+            "address": "jl. cicadas"
+        },
+        {
+            "id": 9,
+            "name": "Ragiel Rizki",
+            "age": 17,
+            "address": "jl. sukasenang"
+        },
+        {
+            "id": 10,
+            "name": "Dede Paojan",
+            "age": 17,
+            "address": "jl. phh mustofa"
+        },
+        {
+            "id": 11,
+            "name": "Valentino Catur",
+            "age": 17,
+            "address": "jl. sukamantri"
+        }
+    ]
+}
